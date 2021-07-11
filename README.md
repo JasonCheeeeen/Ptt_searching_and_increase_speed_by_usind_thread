@@ -1,4 +1,4 @@
-# Ptt searching and increase speed by usind threads
+# Ptt searching and increase speed by using threads
 1. conduct the web crawler of ptt
 2. get the boards of ptt
 3. find the date of today or yesterday
